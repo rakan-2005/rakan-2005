@@ -24,7 +24,6 @@ I am an Information Systems student at Prince Sattam bin Abdulaziz University, e
 ## Focus Areas
 
 - Data Analysis
-- Information Systems
 - Programming fundamentals
 - Technical learning and development
 

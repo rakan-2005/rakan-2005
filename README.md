@@ -1,10 +1,6 @@
 <div align="center">
 
 # RAKAN ALZAHRANI
-
-### Information Systems Student
-#### Prince Sattam bin Abdulaziz University
-
 </div>
 
 I am an Information Systems student at Prince Sattam bin Abdulaziz University, expected to graduate in 2027. I am building a foundation in Python, Java, and SQL while developing a strong interest in Data Analysis and practical problem solving.
